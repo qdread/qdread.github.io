@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Quentin D. Read"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Using big open data to understand\ncommunities of living things and how\nhumans are affecting the natural world"
   location         : "Annapolis, Maryland, USA"
-  employer         : "National Socio-Environmental Synthesis Center (SESYNC)"
+  employer         : "National Socio-Environmental\nSynthesis Center (SESYNC)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nW17_vcAAAAJ&hl=en"
   email            :
@@ -101,8 +101,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/quentin-read-314077143/"
+  orcid            : "https://orcid.org/0000-0003-4315-5582"
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://stackoverflow.com/users/2854608/qdread"
