@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is a test version of Quentin D. Read's personal website.
+This is a test version of Quentin D. Read's personal website. This site is still in development so please follow one of the links at left or go to [Quentin's "old" site](https://quentinread.weebly.com). [Quentin's blog](https://qdrsite.wordpress.com) is also highly recommended by Quentin.
+
+![Placeholder picture](/images/IMG_4417.jpg)
 
 A data-driven personal website
 ======
