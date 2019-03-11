@@ -1,12 +1,11 @@
 ---
-title: "My research"
-collection: research
-permalink: /research/research-1
-excerpt: 'Description of my research (placeholder)'
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
 ---
 
-Quentin's research
-==================
+# Quentin's research
 
 This is a description of Quentin's research. It will be filled out soon!
 
