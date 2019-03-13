@@ -1,0 +1,12 @@
+---
+title: "Fungal colonization of plant roots is resistant to nitrogen addition and resilient to dominant species losses."
+collection: publications
+permalink: /publication/2019-henning-et-al-2019
+excerpt: 'Description'
+date: 2019
+venue: 'Ecosphere'
+citation: 'Henning, J. A., Q. D. Read, N. J. Sanders, and A. T. Classen. 2019. Fungal colonization of plant roots is resistant to nitrogen addition and resilient to dominant species losses. Ecosphere. DOI: 10.1002/ecs2.2640.'
+---
+Description
+
+Recommended citation: Henning, J. A., Q. D. Read, N. J. Sanders, and A. T. Classen. 2019. Fungal colonization of plant roots is resistant to nitrogen addition and resilient to dominant species losses. Ecosphere. DOI: 10.1002/ecs2.2640.
