@@ -28,12 +28,20 @@ Education
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages
+	* R (fluent)
+	* Python (proficient)
+* Statistical modeling
+	* Bayesian modeling with STAN, JAGS, and brms
+* Software
+	* Parallel computing in Unix environment
+	* GitHub for collaborations
+	* RMarkdown for communicating results
+	* GIS libraries in R for spatial analysis
+* Natural languages
+	* English (native)
+	* German (fluent)
+	* Spanish (proficient)
 
 Publications
 ======
@@ -43,19 +51,36 @@ Publications
   
 Talks
 ======
+
+Placeholder - more soon
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
+
+Placeholder - more soon
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service, volunteering, and outreach
 ======
-* stuff
+* Peer reviewer for 22 different journals
+* Coordinator of Darwin Day 2014 at the University of Tennessee
+* Gave public talks on my research and on citizen science
+	* MSU Science Festival, 2018
+	* Biology On Tap (Lansing, MI), 2017
+* Volunteered to teach kids about science
+	* Kids Nature Camp, Rocky Mountain Biological Laboratory, 2015
+	* Tennessee State Science Olympiad, 2015
+	* Voyager Middle School (NC), 2012, 2013
+	* Walland Elementary School (TN), 2011
+	* Boo at the Zoo (Knoxville, TN), 2011, 2012
+
 
 Relevant work experience
 ======
