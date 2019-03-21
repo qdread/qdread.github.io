@@ -10,7 +10,9 @@ redirect_from:
 
 This is a test version of Quentin D. Read's personal website. This site is still in development so please follow one of the links at left or go to [Quentin's "old" site](https://quentinread.weebly.com). [Quentin's blog](https://qdrsite.wordpress.com) is also highly recommended by Quentin.
 
-[See a map of all the places I've given a talk!](talkmap.html)
+## Map of places Quentin has given talks
+
+<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
 ![Placeholder picture](/images/IMG_4417.jpg)
 
