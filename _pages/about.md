@@ -14,5 +14,4 @@ This is a test version of Quentin D. Read's personal website. This site is still
 
 <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
-![Placeholder picture](/images/IMG_4417.jpg)
 
