@@ -21,6 +21,7 @@ Postdoctoral Research
 
 Education
 ======
+
 * B.S. in Environmental Science, University of North Carolina, 2009
 	* Undergraduate research in the lab of Dr. Patricia Gensel
 * Ph.D. in Ecology, University of Tennessee, 2016
@@ -28,6 +29,7 @@ Education
   
 Skills
 ======
+
 * Programming languages
 	* R (fluent)
 	* Python (proficient)
@@ -45,6 +47,7 @@ Skills
 
 Publications
 ======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -52,13 +55,11 @@ Publications
 Talks
 ======
 
-Placeholder - more soon
-
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching and mentoring
 ======
 
 Placeholder - more soon
