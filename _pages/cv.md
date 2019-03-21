@@ -25,7 +25,7 @@ Education
 * B.S. in Environmental Science, University of North Carolina, 2009
 	* Undergraduate research in the lab of Dr. Patricia Gensel
 * Ph.D. in Ecology, University of Tennessee, 2016
-	* Advisor: Dr. Nathan Sanders
+	* Advisor: [Dr. Nathan Sanders](http://www.natesanders.org/)
   
 Skills
 ======
