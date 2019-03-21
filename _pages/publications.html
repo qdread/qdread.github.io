@@ -1,0 +1,24 @@
+---
+layout: archive
+title: "Publications and Talks"
+permalink: /publications/
+author_profile: true
+---
+
+<p>These are Quentin's scientific publications and talks. You can also visit <a href="https://quentinread.weebly.com/publications">Q's old publications page</a> or you can find the articles on (<a href="https://scholar.google.com/citations?user=nW17_vcAAAAJ&hl=en">Q's Google Scholar profile page</a>.</p>
+
+<h2>Publications</h2>
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Talks</h2>
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
