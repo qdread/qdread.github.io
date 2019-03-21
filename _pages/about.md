@@ -10,14 +10,7 @@ redirect_from:
 
 This is a test version of Quentin D. Read's personal website. This site is still in development so please follow one of the links at left or go to [Quentin's "old" site](https://quentinread.weebly.com). [Quentin's blog](https://qdrsite.wordpress.com) is also highly recommended by Quentin.
 
+[See a map of all the places I've given a talk!](talkmap.html)
+
 ![Placeholder picture](/images/IMG_4417.jpg)
 
-Placeholder text below . . . 
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
