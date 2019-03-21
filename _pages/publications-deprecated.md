@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications and Talks"
-permalink: /publications/
+permalink: /publications-deprecated/
 author_profile: true
 ---
 
