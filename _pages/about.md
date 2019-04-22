@@ -17,7 +17,7 @@ Quentin also likes playing Irish trad music on the flute, running (his favorite 
 
 -----
 
-<a class="twitter-timeline" href="https://twitter.com/QuentinDRead?ref_src=twsrc%5Etfw">Tweets by QuentinDRead</a> <script async src="https://platform.twitter.com/widgets.js" data-tweet-limit="3" charset="utf-8"></script> 
+<a class="twitter-timeline" href="https://twitter.com/QuentinDRead?ref_src=twsrc%5Etfw" data-tweet-limit="3">Tweets by QuentinDRead</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 -----
 
@@ -26,6 +26,5 @@ Quentin also likes playing Irish trad music on the flute, running (his favorite 
 <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
 Site last updated 22 April 2019.
-
 
 
