@@ -17,28 +17,13 @@ Quentin also likes playing Irish trad music on the flute, running (his favorite 
 
 -----
 
-<table border="0">
-	<tr>
-		<td>
-		<b style="font-size:24px">Quentin's latest tweets</b>
-		</td>
-		<td>
-		<b style="font-size:24px">Map of places Quentin has given talks</b>
-		</td>
-	</tr>
-
-	<tr>
-		<td>
-		<a class="twitter-timeline" href="https://twitter.com/QuentinDRead?ref_src=twsrc%5Etfw" data-tweet-limit="3">Tweets by QuentinDRead</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-		</td>
-		<td>
-		<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
-		</td> 
-	</tr>
-</table>
+<a class="twitter-timeline" href="https://twitter.com/QuentinDRead?ref_src=twsrc%5Etfw" data-tweet-limit="3">Tweets by QuentinDRead</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 -----
 
+## Map of places Quentin has given talks
+
+<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
 Site last updated 22 April 2019.
 
