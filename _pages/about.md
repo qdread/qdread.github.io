@@ -1,4 +1,3 @@
-<link href="mystyle.css" rel="stylesheet"></link>
 
 ---
 permalink: /
@@ -21,7 +20,7 @@ Quentin also likes playing Irish trad music on the flute, running (his favorite 
 
 ## Quentin's latest tweets
 
-<div id="twitter-widget-holder">
+<div style="max-height:400px; max-width:500px; padding:20px; background:#fff; border-radius:3px; box-shadow:2px 2px 3px rgba(0,0,0,.1); overflow:scroll;">
 	<a class="twitter-timeline" href="https://twitter.com/QuentinDRead?ref_src=twsrc%5Etfw" data-tweet-limit="3">Tweets by QuentinDRead</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
 
