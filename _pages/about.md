@@ -18,12 +18,14 @@ Quentin also likes playing Irish trad music on the flute, running (his favorite 
 -----
 
 <table border="0">
+	<col width="200">
+	<col width="200">
 	<tr>
 		<td>
-		<b style="font-size:24px">Quentin's latest tweets</b>
+		<b style="font-size:20px">Quentin's latest tweets</b>
 		</td>
 		<td>
-		<b style="font-size:24px">Map of places Quentin has given talks</b>
+		<b style="font-size:20px">Map of places Quentin has given talks</b>
 		</td>
 	</tr>
 
