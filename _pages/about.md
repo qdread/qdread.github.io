@@ -1,5 +1,3 @@
-<link href="mystyle.css" rel="stylesheet"></link>
-
 ---
 permalink: /
 title: "Quentin D. Read"
@@ -10,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<link href="mystyle.css" rel="stylesheet"></link>
+
 Quentin is a postdoctoral fellow at the [National Socio-Environmental Synthesis Center (SESYNC)](https://www.sesync.org) in Annapolis, Maryland, USA. A community ecologist by training, he is now working on quantifying the environmental and ecological impacts of food waste in the United States, and predicting the effectiveness of different programs that have been proposed to reduce food waste. See the [Food Waste & The Environment](https://www.sesync.org/project/ventures/food-waste-and-the-environment) project page to read more, or check out [Quentin's blog post on food waste research](https://qdrsite.wordpress.com/2019/02/15/why-do-we-waste-so-much-food/).
 
 Quentin also does research in basic ecology. He aims to find patterns in biodiversity and species traits at many levels, from within-species variation at the local scale to variation across large scales of space and time, and to explore the implications of those patterns for how organisms and ecosystems respond to global change.
@@ -18,8 +18,6 @@ From 2016 to 2018 Quentin was a postdoctoral researcher with Phoebe Zarnetske (M
 Quentin also likes playing Irish trad music on the flute, running (his favorite race is the mile) and birding.
 
 -----
-
-## Quentin's latest tweets
 
 <div id="twitter-widget-holder">
 	<a class="twitter-timeline" href="https://twitter.com/QuentinDRead?ref_src=twsrc%5Etfw" data-tweet-limit="3">Tweets by QuentinDRead</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
