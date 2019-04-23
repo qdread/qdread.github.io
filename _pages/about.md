@@ -18,8 +18,6 @@ Quentin also likes playing Irish trad music on the flute, running (his favorite 
 -----
 
 <table border="0">
-	<col width="200">
-	<col width="200">
 	<tr>
 		<td>
 		<b style="font-size:20px">Quentin's latest tweets</b>
@@ -34,7 +32,7 @@ Quentin also likes playing Irish trad music on the flute, running (his favorite 
 		<a class="twitter-timeline" href="https://twitter.com/QuentinDRead?ref_src=twsrc%5Etfw" data-tweet-limit="3">Tweets by QuentinDRead</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 		</td>
 		<td>
-		<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+		<iframe src="/talkmap/map.html" height="411" width="500" style="border:none;"></iframe>
 		</td> 
 	</tr>
 </table>
