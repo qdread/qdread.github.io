@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Quentin D. Read"
-excerpt: "About me"
+excerpt: "quentinread.com - qdread.github.io"
 author_profile: true
 redirect_from: 
   - /about/
