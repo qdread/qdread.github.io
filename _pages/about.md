@@ -6,14 +6,40 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: elkton-banner.jpg
+  overlay_filter: 0.15
+  caption: "Photo: QDR"
 ---
 
-Quentin is a postdoctoral fellow at the [National Socio-Environmental Synthesis Center (SESYNC)](https://www.sesync.org) in Annapolis, Maryland, USA. A community ecologist by training, he is now working on quantifying the environmental and ecological impacts of food waste in the United States, and predicting the effectiveness of different programs that have been proposed to reduce food waste. See the [Food Waste & The Environment](https://www.sesync.org/project/ventures/food-waste-and-the-environment) project page to read more, or check out [Quentin's blog post on food waste research](https://qdrsite.wordpress.com/2019/02/15/why-do-we-waste-so-much-food/).
+<table class="noborder">
+	<tr>
+	
+	<td style="padding:0em;font-size:1.3333em;">
+	<p>
+	Quentin is a postdoctoral fellow at the <a href="https://www.sesync.org">National Socio-Environmental Synthesis Center (SESYNC)</a> in Annapolis, Maryland, USA. A community ecologist by training, he is now working on quantifying the environmental and ecological impacts of food waste in the United States, and predicting the effectiveness of different programs that have been proposed to reduce food waste. See the <a href="https://www.sesync.org/project/ventures/food-waste-and-the-environment">Food Waste & The Environment</a> project page to read more, or check out <a href="https://qdrsite.wordpress.com/2019/02/15/why-do-we-waste-so-much-food/">Quentin's blog post on food waste research</a>.
+	</p>
+	
+	</td>
 
+	<td>
+	<img src="/images/measuring.jpg" alt="Photo by QDR" height="3200" width="4264" class="inline"/>
+	</td>
+
+	</tr>
+</table>
+
+<p>
 Quentin also does research in basic ecology. He aims to find patterns in biodiversity and species traits at many levels, from within-species variation at the local scale to variation across large scales of space and time, and to explore the implications of those patterns for how organisms and ecosystems respond to global change.
-From 2016 to 2018 Quentin was a postdoctoral researcher with Phoebe Zarnetske (MSU, [lab website](https://msu.edu/~plz)) and Sydne Record (Bryn Mawr College, [lab website](https://sydnerecord.blogs.brynmawr.edu/)). In 2016, Quentin completed his PhD at the University of Tennessee, working with Nate Sanders ([lab website](http://www.natesanders.org/)). Visit the Research page to learn more about Quentin's past, current, and future research, or see his [CV](https://qdread.github.io/files/qread_cv.pdf) or a briefer [r&eacute;sum&eacute;](https://qdread.github.io/files/qread_2pageresume.pdf) for more details. 
+</p>
 
+<p>
+From 2016 to 2018 Quentin was a postdoctoral researcher at Michigan State University with Phoebe Zarnetske (<a href="https://msu.edu/~plz">lab website</a>) and Sydne Record (<a href="https://sydnerecord.blogs.brynmawr.edu/">lab website</a>). In 2016, Quentin completed his PhD at the University of Tennessee, working with Nate Sanders (<a href="http://www.natesanders.org/">lab website</a>). Visit the Research page to learn more about Quentin's past, current, and future research, or see his <a href="https://qdread.github.io/files/qread_cv.pdf">CV</a> or a briefer <a href="https://qdread.github.io/files/qread_2pageresume.pdf">r&eacute;sum&eacute;</a> for more details. 
+</p>
+
+<p>
 Quentin also likes playing Irish trad music on the flute, running (his favorite race is the mile) and birding.
+</p>
 
 -----
 

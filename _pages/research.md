@@ -3,6 +3,10 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+header:
+  overlay_image: elkton-banner.jpg
+  overlay_filter: 0.15
+  caption: "Photo: QDR"
 ---
 
 <a name="top"></a>

@@ -5,6 +5,10 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+header:
+  overlay_image: elkton-banner.jpg
+  overlay_filter: 0.15
+  caption: "Photo: QDR"
 ---
 
 {% include base_path %}

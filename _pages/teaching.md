@@ -3,6 +3,10 @@ layout: archive
 title: "Teaching & Mentoring"
 permalink: /teaching/
 author_profile: true
+header:
+  overlay_image: elkton-banner.jpg
+  overlay_filter: 0.15
+  caption: "Photo: QDR"
 ---
 
 {% include base_path %}
