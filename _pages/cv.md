@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-These are highlights from Quentin's CV. You can download a PDF of his full CV [here](https://qdread.github.io/files/qread_cv.pdf).
+These are highlights from Quentin's CV. You can download a PDF of his full CV [here](https://qdread.github.io/files/qread_cv.pdf), or a 2-page r&eacute;sum&eacute; [here](https://qdread.github.io/files/qread_2pageresume.pdf).
 
 Postdoctoral Research
 ======
