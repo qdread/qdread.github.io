@@ -40,7 +40,7 @@ Quentin's research is driven by big questions in environmental science and ecolo
 	</p>
 	</td>
 	<td>	
-	<img src="/images/fao_flw.png" alt="Food loss by food type, using FAO data - figure by QDR" height="12000" width="12000" class="inline"/>
+	<img src="/images/fao_flw.PNG" alt="Food loss by food type, using FAO data - figure by QDR" height="12000" width="12000" class="inline"/>
 	</td>
 	</tr>
 </table>
@@ -104,7 +104,7 @@ Following from the observation that species diversity varies across space, espec
 	</p>
 	</td>
 	<td>	
-	<img src="/images/bbsdivmaphuc.png" alt="Breeding bird diversity by USGS HUC4 unit - figure by QDR" height="2264" width="3248" class="inline"/>
+	<img src="/images/bbsdivmaphuc.PNG" alt="Breeding bird diversity by USGS HUC4 unit - figure by QDR" height="2264" width="3248" class="inline"/>
 	</td>
 	</tr>
 </table>
@@ -116,7 +116,7 @@ Following from the observation that species diversity varies across space, espec
 <table class="noborder">
 	<tr>
 	<td>
-	<img src="/images/densitybci.png" alt="Tree density by size on BCI - figure by QDR" height="2480" width="3500" class="inline"/>
+	<img src="/images/densitybci.PNG" alt="Tree density by size on BCI - figure by QDR" height="2480" width="3500" class="inline"/>
 	</td>
 	<td>	
 	<p>	
