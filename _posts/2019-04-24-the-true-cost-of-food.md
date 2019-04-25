@@ -32,7 +32,7 @@ Our current work is focusing especially on the environmental piece of the pie in
 The image here shows wheat being made into spaghetti as an example. At the agricultural production stage, farm equipment burns fuel and releases greenhouse gas. The factory where the noodles are made releases more carbon dioxide. Distributors release even more when they truck the packaged product to stores, and consumers do too when they transport and cook the food. The total amount of greenhouse gas released increases as the food moves through the supply chain. You could say that spaghetti "virtually" represents a higher and higher amount of environmental impact, the further along the supply chain it progresses. In all cases, the greenhouse gas released is a negative externality because it harms us all by contributing to global warming, but isn't included in the cost of the noodles. But the good thing is, if we can reduce waste at any one stage of the supply chain, we could get the positive effects of the waste reduction to trickle back up the chain and ultimately reduce the total environmental impact of the whole process.
 
 <figure>
-  <img src="/images/fao_flw.PNG" alt="Food waste by food type and stage" style="max-width:75%;"/>
+  <img src="/images/FAO_FLW_emojis_jitterplot.png" alt="Food waste by food type and stage" style="max-width:75%;"/>
   <figcaption>Image created by QDR, data from <a href="http://www.fao.org/3/a-i2697e.pdf">FAO</a></figcaption>
 </figure>
 
