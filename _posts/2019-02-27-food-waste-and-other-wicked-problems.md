@@ -1,0 +1,35 @@
+---
+title: 'Personal and collective responsibility for food waste &mdash; and other wicked problems'
+date: 2019-02-27
+permalink: /posts/2019/02/food-waste-and-other-wicked-problems/
+tags:
+  - food waste
+  - sustainability
+  - wicked problem
+  - SESYNC
+---
+
+It's impossible to spend much time here at SESYNC without hearing the term "[wicked problem](https://www.stonybrook.edu/commcms/wicked-problem/about/What-is-a-wicked-problem)." I wasn't familiar with the term when I first got here, so I quickly read up on it. <!--break--> Turns out, it is a common term in the environmental literature, coined originally in the 1960s in a Management Science editorial, that refers to problems with a certain set of characteristics. Wicked problems can't be stated in a simple way. They have no absolute right or wrong solutions, only better or worse ones. There is no way to figure out the solution to a wicked problem by trial and error -- every solution you attempt has to count. Wicked problems are all unique, but every wicked problem can be described as an outgrowth of a different unique problem. Global climate change would be the premier example of a wicked problem -- it defies every attempt to solve it, there is no agreement on the best approach, and as time runs out the constraints on solving it become ever more difficult. Other examples include pandemics like AIDS, the opioid crisis, and global inequality.
+
+<figure>
+  <img src="/images/platewaste.jpg" alt="food waste" style="max-width:65%;"/>
+  <img src="/images/climatechange.jpg" alt="global warming" style="max-width:65%;"/>	
+  <figcaption>Food waste and global warming: two sides of the same wicked coin</figcaption>
+</figure>
+
+Obviously this discussion is leading to food waste, yet another wicked problem. As I mentioned in my last post, the massive environmental impact of food waste means that it is a huge contributor to the wicked problem of global climate change. The back-of-the-envelope math is eye-popping. Around 1/3 of all greenhouse gas emissions are caused by global food production, and around 1/3 of all food is wasted. So 1/3 * 1/3 = 1/9 or roughly 10% of our greenhouse gases are emitted in order to produce food that no one eats! That crude calculation more or less agrees with more sophisticated analyses that have been done. By comparison, around 1/3 of all our greenhouse gas emissions are caused by transportation, so the level of waste would correspond to 1 of every 3 car miles being driven in a circle with no destination. All that is to say that the food waste problem is related to the climate change problem both because food waste contributes to climate change, both are caused by our wasteful culture, and both are wicked problems that are global in scope.
+
+<img src="/images/we_vs_i.jpg" alt="cartoon" class="inline"/>
+
+Recently there has been a lot of discussion about the role of personal responsibility in solving the problem of climate change. A common line of reasoning is that everyone needs to make personal choices that are good for the climate, such as minimizing flying, eating diets low in meat, dairy, and other resource-intensive foods, and taking public transit to work. The rebuttal is that this is a distraction being pushed by neoliberal elites -- trivializing the huge problem of climate change and making it into an individual's problem lets them keep plundering and pillaging the environment behind the scenes. I sympathize with both views. Clearly individual sacrifices will not solve the problem, especially if pro-climate choices are made next to impossible by a system that provides poor to no public transit options, or makes sustainable food options more expensive. However, totally discounting the role of personal responsibility is also a problem. No matter how nefarious or evil we want to think of them, the mega-corporations directly responsible for most greenhouse gas emissions are satisfying demand of individual consumers. One look at the Yellow Vest protests in France is enough to show that this isn't a matter of a few oligarchs standing in the way of a popular groundswell of will to stop climate change.
+
+<figure>
+  <img src="/images/lancetfig2.PNG" alt="Figure: contribution of agriculture to global warming" style="max-width:80%;"/>
+  <figcaption>Figure from <a href="https://www.thelancet.com/commissions/EAT">Lancet report</a> showing how changes to agriculture and the food system could lessen the effects of climate change</figcaption>
+</figure>
+
+This tension between personal and collective responsibility also rears its head in the food waste arena. A [recent report by the Lancet](https://www.thelancet.com/commissions/EAT) and a [paper in Nature](https://sustainabilitycommunity.nature.com/users/181504-marco-springmann/posts/39688-options-for-keeping-the-food-system-within-planetary-limits) (with overlapping co-authors) concluded that (1) global adoption of a "flexitarian" diet &mdash; consuming only 1 or 2 servings of meat per week &mdash; and (2) reducing food waste by 50% are the two main steps we need to take to make the food system sustainable. Clearly, those two steps will both require top-down policy changes and buy-in from the corporations that are driving and shaping our food choices, as well as bottom-up support from the people actually making the food choices. In a promising development, many corporations have actually voiced their support for food waste reduction and claim to be reducing it in their supply chains. However, they still have a strong financial incentive to sell more product to consumers than they actually need. They accomplish this through numerous overt and subliminal marketing tactics, as I described in my previous post. When consumers do end up overbuying, and some of that food is inevitably wasted, it is no longer the retailer's responsibility, and that waste does not appear on their balance sheet. The individual is blamed for making poor choices, when in reality the problem is system-wide. Clearly, retailers and processors need to do more than reduce waste in their supply chains. However, the "invisible hand" of the market will not be able to effect the truly needed change, since it goes against the retailers' interests. This is where the government needs to step in (N.B.: I'm no libertarian!) and regulate to ensure that consumers are not underhandedly persuaded to buy more than they need. However this can't be successful without also assuming that the culture of abundance and waste needs to change at the individual level -- there's personal responsibility again! Reducing food waste in this way would have the potential to reduce obesity, another wicked problem that is commonly incorrectly blamed on individuals making poor choices, but is truly a collective problem.
+
+Whether food waste or some other global issue, we need to face wicked problems head on both as individuals and as a society if we have any hope of solving them. I hope to follow this post up with more concrete discussion of potential solutions to the food waste problem.
+
+*Image credits: plate - mnn.com, sun - maxpixel.net, cartoon - Andrew Baker*

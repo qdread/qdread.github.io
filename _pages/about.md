@@ -17,7 +17,7 @@ header:
 	
 	<td style="padding:0em;font-size:1.3333em;">
 	<p>
-	Quentin is a postdoctoral fellow at the <a href="https://www.sesync.org">National Socio-Environmental Synthesis Center (SESYNC)</a> in Annapolis, Maryland, USA. A community ecologist by training, he is now working on quantifying the environmental and ecological impacts of food waste in the United States, and predicting the effectiveness of different programs that have been proposed to reduce food waste. See the <a href="https://www.sesync.org/project/ventures/food-waste-and-the-environment">Food Waste & The Environment</a> project page to read more, or check out <a href="https://qdrsite.wordpress.com/2019/02/15/why-do-we-waste-so-much-food/">Quentin's blog post on food waste research</a>.
+	Quentin is a postdoctoral fellow at the <a href="https://www.sesync.org">National Socio-Environmental Synthesis Center (SESYNC)</a> in Annapolis, Maryland, USA. A community ecologist by training, he is now working on quantifying the environmental and ecological impacts of food waste in the United States, and predicting the effectiveness of different programs that have been proposed to reduce food waste. See the <a href="https://www.sesync.org/project/ventures/food-waste-and-the-environment">Food Waste & The Environment</a> project page to read more, or check out <a href="/year-archive/">Quentin's blog posts on food waste research</a>.
 	</p>
 	
 	</td>
