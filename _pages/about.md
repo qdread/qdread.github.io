@@ -55,6 +55,6 @@ Quentin also likes playing Irish trad music on the flute, running (his favorite 
 
 <iframe src="/talkmap/map.html" height="700" width="850" style="margin-right:auto;margin-left:auto;border:none;"></iframe>
 
-Site last updated 24 April 2019.
+Site last updated 17 July 2019.
 
 
