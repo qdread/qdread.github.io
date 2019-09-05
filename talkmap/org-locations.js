@@ -43,5 +43,10 @@ var addressPoints = [
     "Arlington, Virginia",
     38.8903961,
     -77.0841585
+  ],
+  [
+    "Louisville, Kentucky",
+    38.2542376,
+    -85.759407
   ]
 ];
