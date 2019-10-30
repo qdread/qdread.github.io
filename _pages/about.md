@@ -17,7 +17,7 @@ header:
 	
 	<td style="padding:0em;font-size:1.3333em;">
 	<p>
-	Quentin is a postdoctoral fellow at the <a href="https://www.sesync.org">National Socio-Environmental Synthesis Center (SESYNC)</a> in Annapolis, Maryland, USA. A community ecologist by training, he is now working on quantifying the environmental and ecological impacts of food waste in the United States, and predicting the effectiveness of different programs that have been proposed to reduce food waste. See the <a href="https://www.sesync.org/project/foundations/food-waste-and-the-environment">Food Waste & The Environment</a> project page to read more, or check out <a href="/year-archive/">Quentin's blog posts on food waste research</a>.
+	Quentin is a part-time postdoctoral fellow and part-time data scientist at the <a href="https://www.sesync.org">National Socio-Environmental Synthesis Center (SESYNC)</a> in Annapolis, Maryland, USA. As a postdoc, he is now working on quantifying the environmental and ecological impacts of food waste in the United States, and predicting the effectiveness of different programs that have been proposed to reduce food waste. See the <a href="https://www.sesync.org/project/foundations/food-waste-and-the-environment">Food Waste & The Environment</a> project page to read more, or check out <a href="/year-archive/">Quentin's blog posts on food waste research</a>. 
 	</p>
 	
 	</td>
@@ -30,7 +30,11 @@ header:
 </table>
 
 <p>
-Quentin also does research in basic ecology. He aims to find patterns in biodiversity and species traits at many levels, from within-species variation at the local scale to variation across large scales of space and time, and to explore the implications of those patterns for how organisms and ecosystems respond to global change.
+As a data scientist, Quentin works with other researchers, both people based at SESYNC and who are part of SESYNC-funded working groups. He helps them process, analyze, and manage their big complex datasets. The data SESYNC researchers deal with comes from many different sources and takes many forms, but the uniting goal is to understand how social-ecological systems function and develop solutions for complex problems facing the world. 
+</p>
+
+<p>
+At heart Quentin is a community ecologist. He does research seeking patterns in biodiversity and species traits at many levels, from within-species variation at the local scale to variation across large scales of space and time, and to explore the implications of those patterns for how organisms and ecosystems respond to global change.
 </p>
 
 <p>
@@ -55,6 +59,6 @@ Quentin also likes playing Irish trad music on the flute, running (his favorite 
 
 <iframe src="/talkmap/map.html" height="700" width="850" style="margin-right:auto;margin-left:auto;border:none;"></iframe>
 
-Site last updated 17 July 2019.
+*Site last updated 30 October 2019*
 
 
