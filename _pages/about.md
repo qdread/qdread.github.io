@@ -38,7 +38,7 @@ At heart Quentin is a community ecologist. He does research seeking patterns in 
 </p>
 
 <p>
-From 2016 to 2018 Quentin was a postdoctoral researcher at Michigan State University with Phoebe Zarnetske (<a href="https://msu.edu/~plz">lab website</a>) and Sydne Record (<a href="https://sydnerecord.blogs.brynmawr.edu/">lab website</a>). In 2016, Quentin completed his PhD at the University of Tennessee, working with Nate Sanders (<a href="http://www.natesanders.org/">lab website</a>). Visit the Research page to learn more about Quentin's past, current, and future research, or see his <a href="https://qdread.github.io/files/qread_cv.pdf">CV</a> or a briefer <a href="https://qdread.github.io/files/qread_2pageresume.pdf">r&eacute;sum&eacute;</a> for more details. 
+From 2016 to 2018 Quentin was a postdoctoral researcher at Michigan State University with <a href="https://msu.edu/~plz">Phoebe Zarnetske</a> and <a href="https://sydnerecord.blogs.brynmawr.edu/">Sydne Record</a>. In 2016, Quentin completed his PhD at the University of Tennessee, working with <a href="http://www.natesanders.org/">Nate Sanders</a>. Visit the <a href="https://qdread.github.io/research/">Research</a> page to learn more about Quentin's past, current, and future research, or see his <a href="https://qdread.github.io/files/qread_cv.pdf">CV</a> or a briefer <a href="https://qdread.github.io/files/qread_2pageresume.pdf">r&eacute;sum&eacute;</a> for more details. 
 </p>
 
 <p>
