@@ -12,22 +12,11 @@ header:
   caption: "Photo: QDR"
 ---
 
-<table class="noborder">
-	<tr>
-	
-	<td style="padding:0em;font-size:1.3333em;">
-	<p>
-	Quentin is a part-time postdoctoral fellow and part-time data scientist at the <a href="https://www.sesync.org">National Socio-Environmental Synthesis Center (SESYNC)</a> in Annapolis, Maryland, USA. As a postdoc, he is now working on quantifying the environmental and ecological impacts of food waste in the United States, and predicting the effectiveness of different programs that have been proposed to reduce food waste. See the <a href="https://www.sesync.org/project/foundations/food-waste-and-the-environment">Food Waste & The Environment</a> project page to read more, or check out <a href="/year-archive/">Quentin's blog posts on food waste research</a>. 
-	</p>
-	
-	</td>
+![Photo by QDR](/images/measuring.jpg){: .align-right .width-half}
 
-	<td>
-	<img src="/images/measuring.jpg" alt="Photo by QDR" height="3200" width="4264" class="inline"/>
-	</td>
-
-	</tr>
-</table>
+<p>
+Quentin is a part-time postdoctoral fellow and part-time data scientist at the <a href="https://www.sesync.org">National Socio-Environmental Synthesis Center (SESYNC)</a> in Annapolis, Maryland, USA. As a postdoc, he is now working on quantifying the environmental and ecological impacts of food waste in the United States, and predicting the effectiveness of different programs that have been proposed to reduce food waste. See the <a href="https://www.sesync.org/project/foundations/food-waste-and-the-environment">Food Waste & The Environment</a> project page to read more, or check out <a href="/year-archive/">Quentin's blog posts on food waste research</a>. 
+</p>
 
 <p>
 As a data scientist, Quentin works with other researchers, both people based at SESYNC and who are part of SESYNC-funded working groups. He helps them process, analyze, and manage their big complex datasets. The data SESYNC researchers deal with comes from many different sources and takes many forms, but the uniting goal is to understand how social-ecological systems function and develop solutions for complex problems facing the world. 
