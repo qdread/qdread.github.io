@@ -12,7 +12,7 @@ header:
   caption: "Photo: QDR"
 ---
 
-![Photo by QDR](/images/measuring.jpg){: .align-right .width-half}
+![Photo by QDR](/images/measuring.jpg){: .align-right .width-half .top-pad}
 
 <p>
 Quentin is a part-time postdoctoral fellow and part-time data scientist at the <a href="https://www.sesync.org">National Socio-Environmental Synthesis Center (SESYNC)</a> in Annapolis, Maryland, USA. As a postdoc, he is now working on quantifying the environmental and ecological impacts of food waste in the United States, and predicting the effectiveness of different programs that have been proposed to reduce food waste. See the <a href="https://www.sesync.org/project/foundations/food-waste-and-the-environment">Food Waste & The Environment</a> project page to read more, or check out <a href="/year-archive/">Quentin's blog posts on food waste research</a>. 

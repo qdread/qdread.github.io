@@ -25,7 +25,7 @@ Quentin's research is driven by big questions in environmental science and ecolo
 
 ![Potatoes and onions saved from waste - Photo by QDR](/images/potatoes_onions.jpg){: .align-left .width-less}
 
-**The environmental footprint of food waste.** Food waste is the signature problem of our culture of abundance. To maintain human life, it is necessary to consume land, water, soil, and energy resources and to place some burden on ecosystems around the globe. Constructing an inefficient food system that throws out 30% to 50% of the food we produce every day — that is a trademark of our culture of abundance, profligacy, and waste. Globally, six garbage trucks full of edible food are wasted every second, roughly corresponding to the weight of 10000 aircraft carriers annually — or 2700 Empire State Buildings — or 150 Great Pyramids of Giza. For another visceral comparison, the average American citizen is responsible for roughly his or her own weight in food waste each year. Read more in-depth thoughts on food waste on Quentin's <a href="https://qdrsite.wordpress.com">blog</a> or see our group's recent synthesis paper <a href="https://www.sciencedirect.com/science/article/pii/S0048969719328037">here</a>.
+**The environmental footprint of food waste.** To maintain human life, it is necessary to use land, water, soil, and energy, and to place some burden on ecosystems around the globe. However, 30% to 50% of the food produced at such a steep environmental cost is wasted — this is a trademark of our inefficient food system and our culture of abundance and extravagance. Globally, six garbage trucks full of edible food are wasted every second, roughly corresponding to the weight of 10000 aircraft carriers annually — or 2700 Empire State Buildings — or 150 Great Pyramids of Giza. For another visceral comparison, the average American citizen is responsible for roughly his or her own weight in food waste each year. Read more in-depth thoughts on food waste on Quentin's <a href="https://qdrsite.wordpress.com">blog</a> or see our group's recent synthesis paper <a href="https://www.sciencedirect.com/science/article/pii/S0048969719328037">here</a>.
 
 ![Food loss by food type, using FAO data - figure by QDR](/images/fao_flw.PNG){: .align-right .width-less}
 
@@ -69,10 +69,10 @@ Following from the observation that species diversity varies across space, espec
 
 [Back to top](#top)
 
-## How do individual organisms' traits shape natural communities?
-​
 ![Tree density by size on BCI - figure by QDR](/images/densitybci.PNG){: .align-right .width-less}
 
+## How do individual organisms' traits shape natural communities?
+​
 **Demographic traits and metabolic scaling in forests.** How is energy distributed in living systems, and how have those patterns changed over time? The answer to that question has consequences for how we understand the relationship between species diversity and the functioning of ecosystems. In a project led by fellow postdoc John Grady, Quentin is asking how growth-mortality tradeoffs and light competition affect how energy is divided among trees of different sizes, within and among functional groups and species, in tropical forests. Expect a publication in 2019.
 
 ![Plant community in western Colorado - photo by QDR](/images/plantcommunity.jpg){: .align-left .width-less}
