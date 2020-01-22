@@ -13,7 +13,11 @@ header:
 
 {% include base_path %}
 
-These are highlights from Quentin's CV. You can download a PDF of his full CV [here](https://qdread.github.io/files/qread_cv.pdf), or a 2-page r&eacute;sum&eacute; [here](https://qdread.github.io/files/qread_2pageresume.pdf).
+![spelling bee, Ann Arbor, 2017](/images/spellingbeecrop.png){: .align-right .width-less}
+
+# Highlights from Quentin's CV
+
+Download a PDF of the full CV [here](https://qdread.github.io/files/qread_cv.pdf), or a 2-page r&eacute;sum&eacute; [here](https://qdread.github.io/files/qread_2pageresume.pdf).
 
 Professional experience
 ======
@@ -27,6 +31,7 @@ Professional experience
 	* Advisor: [Dr. Phoebe Zarnetske](https://communityecologylab.weebly.com)
 
 
+![science march, East Lansing, 2017](/images/sciencemarch.jpg){: .align-right .width-less}
 
 Education
 ======
