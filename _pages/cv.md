@@ -17,7 +17,7 @@ header:
 
 # Highlights from Quentin's CV
 
-Download a PDF of the full CV [here](https://qdread.github.io/files/qread_cv.pdf), or a 2-page r&eacute;sum&eacute; [here](https://qdread.github.io/files/qread_2pageresume.pdf).
+Download [a PDF of the full CV](https://qdread.github.io/files/qread_cv.pdf), or [a 2-page r&eacute;sum&eacute;](https://qdread.github.io/files/qread_2pageresume.pdf).
 
 Professional experience
 ======
@@ -65,16 +65,14 @@ Skills
 Publications
 ======
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+See the [Publications](publications.html) page.
+
+
 Talks
 ======
 
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+See the [Talks](publications.html#talks) page.
+
   
 Teaching and mentoring
 ======
