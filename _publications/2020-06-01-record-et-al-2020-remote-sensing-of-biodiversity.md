@@ -1,5 +1,5 @@
 ---
-title: "Remote sensing of geodiversity as a link to biodiversity."
+title: "Remote sensing of geodiversity as a link to biodiversity"
 collection: publications
 permalink: /publication/2020-06-01-record-et-al-2020-remote-sensing-of-biodiversity
 excerpt: 'Open access!'
