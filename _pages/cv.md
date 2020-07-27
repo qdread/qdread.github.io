@@ -77,6 +77,8 @@ See the [Talks](publications.html#talks) page.
 Teaching and mentoring
 ======
 
+* **Co-Instructor**, SESYNC
+	* 2020 [Computational Summer Institute](http://sesync.us/si) (weeklong virtual applied socio-environmental data science course)
 * **Co-Instructor**, Michigan State University
 	* Metacommunity Ecology (graduate course)
 * **Graduate Teaching Assistant**, University of Tennessee *(eight semesters)*
@@ -88,6 +90,7 @@ Teaching and mentoring
 	* Research assistantship creating recommendations to improve training and professional development for graduate teaching assistants
 	* Member of panel developing and reforming curriculum of undergraduate introductory biology courses
 * **Guest lectures and workshops**
+	* Designed and led workshop for postdocs on GitHub best practices
 	* Designed and led undergraduate workshops on R, statistics, and data visualization
 	* Guest lectures on conservation biology, nutrient cycling, and climate change
 * **Mentoring experience**
@@ -96,7 +99,7 @@ Teaching and mentoring
   
 Service, volunteering, and outreach
 ======
-* Peer reviewer for 23 different journals
+* Peer reviewer for 27 different journals
 * Review panelist, SESYNC immersion postdoctoral fellowship program
 * Coordinator of Darwin Day 2014 at the University of Tennessee
 * Gave public research talks on climate change and on citizen science
