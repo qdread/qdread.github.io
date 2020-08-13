@@ -21,10 +21,11 @@ Download [a PDF of the full CV](https://qdread.github.io/files/qread_cv.pdf), or
 
 Professional experience
 ======
-* September 2019 - present: Data scientist, National Socio-Environmental Synthesis Center (SESYNC)
-	* 50% data scientist, 50% postdoctoral fellow
 
-* August 2018 - present: Postdoctoral fellow, National Socio-Environmental Synthesis Center (SESYNC)
+* September 2019 - present: Data scientist, National Socio-Environmental Synthesis Center (SESYNC)
+	* Assistant Research Scientist (beginning August 2020)
+
+* August 2018 - August 2020: Postdoctoral fellow, National Socio-Environmental Synthesis Center (SESYNC)
 	* Mentor: Dr. Mary K. Muth (RTI International)
 
 * May 2016 - July 2018: Postdoctoral researcher, Department of Forestry, Michigan State University
