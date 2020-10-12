@@ -11,8 +11,8 @@ var addressPoints = [
   ],
   [
     "Notre Dame, Indiana",
-    41.70456775,
-    -86.2382202601727
+    41.704567749999995,
+    -86.23822026017265
   ],
   [
     "Baltimore, Maryland",
@@ -53,5 +53,10 @@ var addressPoints = [
     "Louisville, Kentucky",
     38.2542376,
     -85.759407
+  ],
+  [
+    "Durham, North Carolina",
+    35.996653,
+    -78.9018053
   ]
 ];
