@@ -74,12 +74,32 @@ Talks
 
 See the [Talks](publications.html#talks) page.
 
+Data science lessons and blog posts
+======
+
+* **Lessons**
+	* [Data APIs in R](https://cyberhelp.sesync.org/online-data-with-R-lesson/)
+	* [Advanced git](https://cyberhelp.sesync.org/advanced-git-lesson)
+	* [Spatial R packages](https://cyberhelp.sesync.org/geospatial-packages-in-R-lesson/)
+* **Blog posts**
+	* [Making free maps with R, ggspatial, and Mapbox](https://cyberhelp.sesync.org/blog/mapping-with-Mapbox.html)
+	* [Using R data.table to speed up my data science](https://cyberhelp.sesync.org/blog/r-data-table.html)
+	* [How open reproducible methods benefit the research community: a shiny story](https://cyberhelp.sesync.org/blog/shiny-vignette-reproducible.html)
+	* [The carbon footprint of R code, and how to reduce it](https://cyberhelp.sesync.org/blog/energy-footprint-of-r.html)
+	* [Resources to help you learn GitHub Pages](https://cyberhelp.sesync.org/blog/github-pages-resources.html)
+	* [Tips for a smooth R(Studio) workflow and reproducible R code](https://cyberhelp.sesync.org/blog/reproducible-r-workflow.html)
+	* [How do I resolve merge conflicts in git/GitHub/GitLab?](https://cyberhelp.sesync.org/blog/git-conflict-resolution.html)
+	* [Using the rslurm package to run code in parallel](https://cyberhelp.sesync.org/blog/using-rslurm-parallel.html)
+	* [ggplot tricks not to forget about](https://cyberhelp.sesync.org/blog/ggplot-roundup.html)
+
   
 Teaching and mentoring
 ======
 
 * **Co-Instructor**, SESYNC
+	* 2021 Geospatial Data Analysis workshop
 	* 2020 [Computational Summer Institute](http://sesync.us/si) (weeklong virtual applied socio-environmental data science course)
+	* 2020 Data Science "whirlwind tour" for postdocs
 * **Co-Instructor**, Michigan State University
 	* Metacommunity Ecology (graduate course)
 * **Graduate Teaching Assistant**, University of Tennessee *(eight semesters)*
@@ -95,12 +115,15 @@ Teaching and mentoring
 	* Designed and led undergraduate workshops on R, statistics, and data visualization
 	* Guest lectures on conservation biology, nutrient cycling, and climate change
 * **Mentoring experience**
+	* Mentored student team in University of Maryland Data Challenge; team won grand prize in a 75-team competition
+	* Remotely mentored two Bryn Mawr College undergraduates on an R package development project, funded by NSF Macrosystems Biology grant
 	* Mentored 4 undergraduates through Summer Research Opportunities Program and High Performance Computing Center at MSU
 	* Mentored 8 undergraduates through Rocky Mountain Biological Laboratory and NSF REU programs
   
 Service, volunteering, and outreach
 ======
-* Peer reviewer for 27 different journals
+* Peer reviewer for ROpenSci
+* Peer reviewer for >40 different journals
 * Review panelist, SESYNC immersion postdoctoral fellowship program
 * Coordinator of Darwin Day 2014 at the University of Tennessee
 * Gave public research talks on climate change and on citizen science
