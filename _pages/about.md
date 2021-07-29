@@ -22,7 +22,7 @@ At heart Quentin is a community ecologist. He does research seeking patterns in 
 
 ![Photo by QDR](/images/warrendunes.jpg){: .align-left .width-half}
 
-From 2016 to 2018 Quentin was a postdoctoral researcher at Michigan State University with [Phoebe Zarnetske](https://msu.edu/~plz) and [Sydne Record](https://sydnerecord.blogs.brynmawr.edu/). In 2016, Quentin completed his PhD at the University of Tennessee, working with [Nate Sanders](http://www.natesanders.org/). Visit the [Research](/research/) page to learn more about Quentin's past, current, and future research, or see his [CV](/files/qread_cv.pdf) or a briefer [r&eacute;sum&eacute;](/files/qread_2pageresume.pdf) for more details. 
+From 2016 to 2018 Quentin was a postdoctoral researcher at Michigan State University with [Phoebe Zarnetske](https://msu.edu/~plz) and [Sydne Record](https://sydnerecord.blogs.brynmawr.edu/). In 2016, Quentin completed his PhD at the University of Tennessee, working with [Nate Sanders](http://www.natesanders.org/). Visit the [Research](/research/) page to learn more about Quentin's past, current, and future research, or the [Data Science](/data-science/) page to read about how Quentin contributes to open reproducible data science. Download his [CV](/files/qread_cv.pdf) or a briefer [r&eacute;sum&eacute;](/files/qread_2pageresume.pdf) for more details. 
 
 Quentin also likes playing Irish trad music on the flute, running (his favorite race is the mile), birding, and being a dad to Vinny and husband to [Mary](http://www.marymglover.com).
 
@@ -40,6 +40,6 @@ Quentin also likes playing Irish trad music on the flute, running (his favorite 
 
 <iframe src="/talkmap/map.html" height="700" width="850" style="margin-right:auto;margin-left:auto;border:none;"></iframe>
 
-*Site last updated 22 January 2020*
+*Site last updated 29 July 2021*
 
 

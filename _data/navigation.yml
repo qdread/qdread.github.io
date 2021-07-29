@@ -2,6 +2,9 @@
 main:
   - title: "Research"
     url: /research/
+    
+  - title: "Data Science"
+    url: /data-science/
 
   - title: "Publications/Talks"
     url: /publications/
