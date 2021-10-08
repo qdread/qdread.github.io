@@ -14,9 +14,11 @@ header:
 
 ![Photo by QDR](/images/measuring.jpg){: .align-right .width-half .top-pad}
 
-Quentin is a researcher and data scientist at the [National Socio-Environmental Synthesis Center (SESYNC)](https://www.sesync.org) in Annapolis, Maryland, USA. As a researcher, he is now working on quantifying the environmental and ecological impacts of food waste in the United States, and predicting the effectiveness of different programs that have been proposed to reduce food waste. See the [Food Waste & The Environment](https://www.sesync.org/project/foundations/food-waste-and-the-environment) project page to read more, or check out [Quentin's blog posts on food waste research](/year-archive/). 
+Quentin is a data scientist and ecologist. *In October 2021, he is starting a new position as the Southeast Area Statistician for the U.S. Department of Agriculture's Agricultural Research Service (ARS)! He'll be based on the campus of N.C. State University in Raleigh, North Carolina, USA. As Quentin gets settled in to his new position, this website will be updated. Please check back soon to learn more about what projects Quentin is working on at ARS.*
 
-As a data scientist, Quentin works with other researchers, both people based at SESYNC and who are part of SESYNC-funded working groups. He helps them process, analyze, and manage their big complex datasets. The data SESYNC researchers deal with comes from many different sources and takes many forms, but the uniting goal is to understand how social-ecological systems function and develop solutions for complex problems facing the world. Some of Quentin's SESYNC projects include maintaining and developing features for the [rslurm R package](https://cyberhelp.sesync.org/rslurm), and writing [data science lessons](https://cyberhelp.sesync.org/lesson) for SESYNC's curriculum.
+From 2018 to 2021, Quentin worked as a researcher and data scientist at the [National Socio-Environmental Synthesis Center (SESYNC)](https://www.sesync.org) in Annapolis, Maryland, USA. As a researcher, he works on quantifying the environmental and ecological impacts of food waste in the United States, and predicting the effectiveness of different programs that have been proposed to reduce food waste. See the [Food Waste & The Environment](https://www.sesync.org/project/foundations/food-waste-and-the-environment) project page to read more, or check out [Quentin's blog posts on food waste research](/year-archive/). 
+
+As a data scientist, Quentin works with other researchers. He helps them process, analyze, and manage their big complex datasets. The data SESYNC researchers deal with comes from many different sources and takes many forms, but the uniting goal is to understand how social-ecological systems function and develop solutions for complex problems facing the world. Some of Quentin's SESYNC projects include maintaining and developing features for the [rslurm R package](https://cyberhelp.sesync.org/rslurm), and writing [data science lessons](https://cyberhelp.sesync.org/lesson) for SESYNC's curriculum.
 
 At heart Quentin is a community ecologist. He does research seeking patterns in biodiversity and species traits at many levels, from within-species variation at the local scale to variation across large scales of space and time, and to explore the implications of those patterns for how organisms and ecosystems respond to global change.
 
@@ -40,6 +42,6 @@ Quentin also likes playing Irish trad music on the flute, running (his favorite 
 
 <iframe src="/talkmap/map.html" height="700" width="850" style="margin-right:auto;margin-left:auto;border:none;"></iframe>
 
-*Site last updated 29 July 2021*
+*Site last updated 07 October 2021*
 
 
