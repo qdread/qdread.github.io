@@ -22,7 +22,10 @@ Download [a PDF of the full CV](https://qdread.github.io/files/qread_cv.pdf), or
 Professional experience
 ======
 
-* September 2019 - present: Data scientist, National Socio-Environmental Synthesis Center (SESYNC)
+* October 2021 - present: Applied consulting statistician, Southeast Area, U.S. Department of Agriculture (USDA) Agricultural Research Service (ARS)
+	* Located on the campus of North Carolina State University in Raleigh, North Carolina
+
+* September 2019 - October 2021: Data scientist, National Socio-Environmental Synthesis Center (SESYNC)
 	* Assistant Research Scientist (beginning August 2020)
 
 * August 2018 - August 2020: Postdoctoral fellow, National Socio-Environmental Synthesis Center (SESYNC)
@@ -49,6 +52,7 @@ Skills
 * **Programming languages**
 	* R (fluent)
 	* Python (proficient)
+	* Julia (beginner)
 * **Statistical modeling**
 	* Bayesian modeling with Stan, JAGS, and brms
 	* Spatial statistics using R
@@ -68,7 +72,6 @@ Publications
 
 See the [Publications](publications.html) page.
 
-
 Talks
 ======
 
@@ -80,8 +83,9 @@ Data science lessons and blog posts
 * **Lessons**
 	* [Data APIs in R](https://cyberhelp.sesync.org/online-data-with-R-lesson/)
 	* [Advanced git](https://cyberhelp.sesync.org/advanced-git-lesson)
-	* [Spatial R packages](https://cyberhelp.sesync.org/geospatial-packages-in-R-lesson/)
+	* [Introduction to geospatial data in R](https://cyberhelp.sesync.org/geospatial-packages-in-R-lesson/)
 * **Blog posts**
+	* [Making a fifty-state USA map, 2021 edition](https://cyberhelp.sesync.org/blog/transform-Alaska-Hawaii.html)
 	* [Making free maps with R, ggspatial, and Mapbox](https://cyberhelp.sesync.org/blog/mapping-with-Mapbox.html)
 	* [Using R data.table to speed up my data science](https://cyberhelp.sesync.org/blog/r-data-table.html)
 	* [How open reproducible methods benefit the research community: a shiny story](https://cyberhelp.sesync.org/blog/shiny-vignette-reproducible.html)
@@ -98,7 +102,7 @@ Teaching and mentoring
 
 * **Co-Instructor**, SESYNC
 	* 2021 Geospatial Data Analysis workshop
-	* 2020 [Computational Summer Institute](http://sesync.us/si) (weeklong virtual applied socio-environmental data science course)
+	* 2020 and 2021 [Computational Summer Institutes](http://sesync.us/si) (weeklong virtual applied socio-environmental data science course)
 	* 2020 Data Science "whirlwind tour" for postdocs
 * **Co-Instructor**, Michigan State University
 	* Metacommunity Ecology (graduate course)
@@ -123,7 +127,7 @@ Teaching and mentoring
 Service, volunteering, and outreach
 ======
 * Peer reviewer for ROpenSci
-* Peer reviewer for >40 different journals
+* Peer reviewer of >50 different manuscripts in 33 different journals
 * Review panelist, SESYNC immersion postdoctoral fellowship program
 * Coordinator of Darwin Day 2014 at the University of Tennessee
 * Gave public research talks on climate change and on citizen science

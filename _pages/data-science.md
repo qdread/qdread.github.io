@@ -15,7 +15,7 @@ Quentin is committed to making data science open and reproducible and breaking d
 
 ## Teaching Data Science
 
-Since 2019, Quentin has created online data science lessons and taught them in-person and virtually as part of the data science team at [SESYNC](https://www.sesync.org). Quentin has either created or contributed to a whole host of lessons available on the [SESYNC cyberhelp page](https://cyberhelp.sesync.org/lesson). Topics include [basic][basicgit] and [advanced git][advancedgit], using R and APIs to [get online data][onlinedata], and [geospatial data][geospatial].
+From 2019-2021, Quentin created online data science lessons and taught them in-person and virtually as part of the data science team at [SESYNC](https://www.sesync.org). Quentin has either created or contributed to a whole host of lessons available on the [SESYNC cyberhelp page](https://cyberhelp.sesync.org/lesson). Topics include [basic][basicgit] and [advanced git][advancedgit], using R and APIs to [get online data][onlinedata], and [geospatial data packages in R][geospatial].
 
 [Back to top](#top)
 
