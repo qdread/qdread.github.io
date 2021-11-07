@@ -21,13 +21,13 @@ var addressPoints = [
   ],
   [
     "East Lansing, Michigan",
-    42.7355416,
-    -84.4852469
+    42.7320307,
+    -84.4721678
   ],
   [
     "Boulder, Colorado",
     40.0149856,
-    -105.2705456
+    -105.270545
   ],
   [
     "Portland, Oregon",
@@ -58,5 +58,10 @@ var addressPoints = [
     "Durham, North Carolina",
     35.996653,
     -78.9018053
+  ],
+  [
+    "Washington, DC",
+    38.8950368,
+    -77.0365427
   ]
 ];
