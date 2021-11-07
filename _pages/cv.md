@@ -81,20 +81,20 @@ Data science lessons and blog posts
 ======
 
 * **Lessons**
-	* [Data APIs in R](https://cyberhelp.sesync.org/online-data-with-R-lesson/)
-	* [Advanced git](https://cyberhelp.sesync.org/advanced-git-lesson)
-	* [Introduction to geospatial data in R](https://cyberhelp.sesync.org/geospatial-packages-in-R-lesson/)
+	* [Data APIs in R](https://sesync-ci.github.io/online-data-with-R-lesson/)
+	* [Advanced git](https://sesync-ci.github.io/advanced-git-lesson)
+	* [Introduction to geospatial data in R](https://sesync-ci.github.io/geospatial-packages-in-R-lesson/)
 * **Blog posts**
-	* [Making a fifty-state USA map, 2021 edition](https://cyberhelp.sesync.org/blog/transform-Alaska-Hawaii.html)
-	* [Making free maps with R, ggspatial, and Mapbox](https://cyberhelp.sesync.org/blog/mapping-with-Mapbox.html)
-	* [Using R data.table to speed up my data science](https://cyberhelp.sesync.org/blog/r-data-table.html)
-	* [How open reproducible methods benefit the research community: a shiny story](https://cyberhelp.sesync.org/blog/shiny-vignette-reproducible.html)
-	* [The carbon footprint of R code, and how to reduce it](https://cyberhelp.sesync.org/blog/energy-footprint-of-r.html)
-	* [Resources to help you learn GitHub Pages](https://cyberhelp.sesync.org/blog/github-pages-resources.html)
-	* [Tips for a smooth R(Studio) workflow and reproducible R code](https://cyberhelp.sesync.org/blog/reproducible-r-workflow.html)
-	* [How do I resolve merge conflicts in git/GitHub/GitLab?](https://cyberhelp.sesync.org/blog/git-conflict-resolution.html)
-	* [Using the rslurm package to run code in parallel](https://cyberhelp.sesync.org/blog/using-rslurm-parallel.html)
-	* [ggplot tricks not to forget about](https://cyberhelp.sesync.org/blog/ggplot-roundup.html)
+	* [Making a fifty-state USA map, 2021 edition](https://sesync-ci.github.io/blog/transform-Alaska-Hawaii.html)
+	* [Making free maps with R, ggspatial, and Mapbox](https://sesync-ci.github.io/blog/mapping-with-Mapbox.html)
+	* [Using R data.table to speed up my data science](https://sesync-ci.github.io/blog/r-data-table.html)
+	* [How open reproducible methods benefit the research community: a shiny story](https://sesync-ci.github.io/blog/shiny-vignette-reproducible.html)
+	* [The carbon footprint of R code, and how to reduce it](https://sesync-ci.github.io/blog/energy-footprint-of-r.html)
+	* [Resources to help you learn GitHub Pages](https://sesync-ci.github.io/blog/github-pages-resources.html)
+	* [Tips for a smooth R(Studio) workflow and reproducible R code](https://sesync-ci.github.io/blog/reproducible-r-workflow.html)
+	* [How do I resolve merge conflicts in git/GitHub/GitLab?](https://sesync-ci.github.io/blog/git-conflict-resolution.html)
+	* [Using the rslurm package to run code in parallel](https://sesync-ci.github.io/blog/using-rslurm-parallel.html)
+	* [ggplot tricks not to forget about](https://sesync-ci.github.io/blog/ggplot-roundup.html)
 
   
 Teaching and mentoring

@@ -15,7 +15,7 @@ Quentin is committed to making data science open and reproducible and breaking d
 
 ## Teaching Data Science
 
-From 2019-2021, Quentin created online data science lessons and taught them in-person and virtually as part of the data science team at [SESYNC](https://www.sesync.org). Quentin has either created or contributed to a whole host of lessons available on the [SESYNC cyberhelp page](https://cyberhelp.sesync.org/lesson). Topics include [basic][basicgit] and [advanced git][advancedgit], using R and APIs to [get online data][onlinedata], and [geospatial data packages in R][geospatial].
+From 2019-2021, Quentin created online data science lessons and taught them in-person and virtually as part of the data science team at [SESYNC](https://www.sesync.org). Quentin has either created or contributed to a whole host of lessons available on the [SESYNC cyberhelp page](https://sesync-ci.github.io/lesson). Topics include [basic][basicgit] and [advanced git][advancedgit], using R and APIs to [get online data][onlinedata], and [geospatial data packages in R][geospatial].
 
 [Back to top](#top)
 
@@ -43,12 +43,12 @@ The [Ostats][Ostats] package was born out of a collaboration between Quentin and
 
 [Back to top](#top)
 
-[rslurm]: https://cyberhelp.sesync.org/rslurm/
+[rslurm]: https://sesync-ci.github.io/rslurm/
 [demo]: https://qdread.shinyapps.io/ex-shiny-wide-data/
 [vignette]: http://corybrunson.github.io/ggalluvial/articles/shiny.html
 [ggalluvial]: http://corybrunson.github.io/ggalluvial/
 [Ostats]: https://neon-biodiversity.github.io/Ostats/
-[basicgit]: https://cyberhelp.sesync.org/basic-git-lesson/
-[advancedgit]: https://cyberhelp.sesync.org/advanced-git-lesson/
-[onlinedata]: https://cyberhelp.sesync.org/online-data-with-R-lesson/
-[geospatial]: https://cyberhelp.sesync.org/geospatial-packages-in-R-lesson/
+[basicgit]: https://sesync-ci.github.io/basic-git-lesson/
+[advancedgit]: https://sesync-ci.github.io/advanced-git-lesson/
+[onlinedata]: https://sesync-ci.github.io/online-data-with-R-lesson/
+[geospatial]: https://sesync-ci.github.io/geospatial-packages-in-R-lesson/
