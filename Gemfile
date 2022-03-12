@@ -26,3 +26,6 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem 'jekyll-seo-tag'
 end
+
+gem 'tzinfo-data'
+gem 'webrick'

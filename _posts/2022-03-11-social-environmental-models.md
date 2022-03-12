@@ -1,0 +1,35 @@
+---
+title: 'Social-environmental models, peer pressure, and you'
+date: 2022-03-11
+permalink: /posts/2022/03/social-environmental-models/
+tags:
+  - environmental science
+  - climate change
+  - interdisciplinary
+---
+
+A [recent paper](https://www.nature.com/articles/s41586-022-04423-8) by SESYNC colleagues and others gives a strong justification for making individual choices that mitigate climate change.
+
+<!--break-->
+
+I can't believe it's been two and a half years since I wrote a blog post! Well, maybe the fact that we have a kid slightly over two and a half years old has something to do with that. To all my readers out there (all five of you), sorry to keep you in excited anticipation for so long for my next gem of a blog post to drop. *Full disclosure: I did write a few entries on the now-moribund [SESYNC data scientists' "cyber blog"](https://sesync.github.io/blog) during that time.* But now I've left SESYNC and Maryland and have a new job as a statistician for the USDA's Agricultural Research Service, with an office on the edge of NC State's campus in Raleigh, North Carolina. So in future blog posts I might start to write more about my new foray into the world of ag stats.
+
+Speaking of [SESYNC](https://sesync.org), this short post is inspired by a [paper in *Nature* I just read](https://www.nature.com/articles/s41586-022-04423-8) that came out of a SESYNC working group, an interdisciplinary team of a dozen or so people from different fields of academia, as well as government and the private sector, who convene to tackle a particular social-environmental problem. The team I was on was working on food waste, but the team who wrote this paper tackled a real thorny question: how does human behavior interact with climate change? This is incredibly important for us to understand because most of our climate models are really physical models that assume that people are out there doing their thing and having a certain impact on the physical environment. This might cause the environment to change, but the models don't really capture any "feedbacks" where environmental change causes people to change their behavior, or the impacts people have on each other to influence each other's behavior. That's clearly got to be a huge factor. 
+
+Anyway, I try to keep abreast of the scientific literature. Because of my dilettantish nature, I have dabbled in a lot of fields in my short career so far. So now, to stay current in all those fields, I have to keep up with any new developments in ecology, environmental science, food-system economics, data science, and statistics ... it's exhausting! I read (OK, skim) a good number of papers every few weeks. I enjoy learning about new things but rarely get emotionally invested in the papers. But when reading this paper I found myself saying things like "That's right!" and "F__k *yeah* it does!" So I felt I had to write down my reactions.
+
+{% include captionedimage.html url="/images/peer-pressure.jpg" height="200px" description="<i>Peer pressure ... not always a bad thing?</i>" %}{: .align-left .width-half}
+
+The basic point of the paper (as I understood it) is that there are really complicated interactions between the human social system and the physical environment. For instance, climate change might cause increases in extreme weather events, which might cause some people to experience climate change more immediately, which in turn might cause them to change their behavior or implement different policies, which comes back around and affects the climate. Or alternatively, climate change might change the baseline of what people perceive as "normal weather," desensitizing people to ongoing climate change, which might decrease the likelihood of new policies that will mitigate climate change. I'm talking about it in a very hand-wavey way, but the authors of the paper did a bunch of really neat modeling to get very concrete predictions about these things.
+
+The section of the paper that I found the most inspiring discussed feedbacks from individuals choosing to engage in pro-environmental behaviors that reduce carbon emissions. While the effect of an individual changing his or her behavior is small, the real benefit comes when other people observe that behavior. That causes some of them to change their own behavior. Of course, it's not always known exactly how strong that "peer pressure" effect is, or how it might vary from place to place or in different contexts. But the modelers tested out a whole range of assumptions of the strength of the effect that people's decisions to reduce their individual carbon emissions have on their peers' later decisions to do the same thing. And it turns out that even if the effect is pretty modest, it can lead to self-reinforcing patterns or tipping points. That can actually have a significant effect on total carbon emissions, with positive consequences for the climate.
+
+That result inspired me because I believe strongly that, although we need to seek top-down policy solutions first and foremost, it's really important to do everything we as individuals can to bring our own actions in line with what we believe to be the right thing to do (see [this older blog post](/posts/2019/02/food-waste-and-other-wicked-problems/)). It is critical that we can feel that we are doing our part to create the future we want. So I was excited to see that cutting-edge social-environmental modeling supports that as not only a noble ideal but also something that can make a tangible difference. Of course, a model is just a model, which is a hypothesis about how things will actually work in reality, but models can be really useful to give people something concrete to frame a problem in their minds. 
+
+{% include captionedimage.html url="/images/foodwaste_foerster.jpg" height="200px" description="<i>Food waste makes an appearance again, as it should!</i>" %}{: .align-right .width-half}
+
+Also, when I read the paper, I had just been looking at [Take the Jump](https://takethejump.org/) which is encouraging people, specifically people like me from wealthy countries, to take six concrete steps to reduce materialism and thereby their carbon footprint. They are trying to get people to sign up to this, if not permanently, then at least for a few months in a kind of "Lenten vow." Their thing is to bring "joy" back to the green movement. They specifically encourage people to avoid the "us vs. them" mentality and not to shame others for not making the same decisions. That really fits in with the results from the *Nature* paper &mdash; shaming can be counterproductive, but there is good reason to believe that simply leading by example can help us get closer to the positive tipping points we need to have any hope of fending off the worst impacts of the climate crisis.
+
+Thanks for reading! I hope my next blog post will be less than 2.5 years from now. ...
+
+[food waste image source](https://commons.wikimedia.org/wiki/File:Treasure_trove_of_wasted_food.JPG)
