@@ -1,16 +1,16 @@
 ---
-title: 'Working title about PNAS paper'
+title: 'How can we reduce the "biodiversity footprint" of the food we eat?'
 date: 2022-04-XX
 permalink: /posts/2022/04/FIXME/
 tags:
   
 ---
 
-Sometimes, the results of research don't turn out the way we expect or even want. If we're lucky enough to get media attention for the work, that complicates the picture further.
+Recently we published a study about how food waste and food consumption in the United States affect biodiversity around the globe. In this post I'll tell a little bit about the study, what we found, and an interesting headline that came out about it. 
 
 <!--break-->
 
-Recently, my former postdoc mentor [Mary Muth][mkm], my amazing colleague and collaborator [Kelly Hondula][klh], and I published a paper about xxx. Out of all the work I've done in my professional career so far, it's the one I'm most excited about and proudest of. MORE INTRO
+Recently, my former postdoc mentor [Mary Muth][mkm], my amazing colleague and collaborator [Kelly Hondula][klh], and I published a paper about xxx. Out of all the work I've done in my professional career so far, it's the one I'm most excited about and proudest of. But not all the results turned out quite the way we expected &mdash; and we were lucky enough to get a smidgen of media attention for the work, which complicates the picture further.
 
 ## The study
 
@@ -26,17 +26,25 @@ What did we find? Well, we found, unsurprisingly, that food consumption in the U
 
 So far, that's not a particularly new or groundbreaking result. The interesting spin we put on it is to combine this result with simulations of "alternate realities" where the USA takes steps to improve the health and sustainability of American diets. Again, two (if not *the* two) ways of doing that are to reduce food waste and to change the composition of the average American diet. When we ran those scenarios, we found that while the healthy diets that replace meat mostly with dairy and seafood (the US-style and Mediterranean-style diets) use somewhat less land overall, it actually would have negative consequences for biodiversity if every American ate according to those recommendations. This is because replacing animal products with other animal products does not really change much of the impact, as well as because those diets replace some of the meat and added sugars and fats with fruit and nuts. Those fruits and nuts have to be produced somewhere and if we assume it will require expanding the land footprint in high-biodiversity areas, that will be harmful to the populations of plants and animals that live there. Similarly, even the vegetarian and Planetary Health diets, while they would greatly reduce the land footprint of agriculture by using a lot less pastureland, would not reduce biodiversity threat by as much as you would think just from adding up the land totals. Again this is because of their high requirement of fruit and nuts to replace animal-based sources of nutrition.
 
-However, the results still indicate clearly that plant-based diets are the way to go for reducing the harmful impacts of the USA's food consumption on biodiversity. The other interesting result is just how well food waste reduction stacks up against these extreme diet changes (that most Americans would probably strongly resist). XXXX ADD TEXT HERE XXXX
+However, the results still indicate clearly that plant-based diets are the way to go for reducing the harmful impacts of the USA's food consumption on biodiversity. The other interesting result is just how well food waste reduction stacks up against these extreme diet changes (that most Americans would probably strongly resist). Cutting food waste in half, and assuming that reduction in demand would reduce food production, could take enough pressure off agricultural land to save X% of the species that are under threat of extinction from American food consumption. That's a great bang for your buck, especially when you consider that switching everyone in the USA to a vegetarian or Planetary Health diet would reduce that same threat by X%. That isn't that much more for something that would be incredibly difficult to do &mdash; even the mere suggestion of the Planetary Health diet provoked a gigantic backlash when it was proposed. By a similar token, if we wanted to shift our average diet to a healthier (but not as hated by the meat and dairy industries) one that has a little bit worse of an impact on biodiversity, we could more than offset that impact by cutting food waste in half. That's really important because that would mean overcoming the unfortunate need to choose between what's healthy for ourselves and for the planet.
+
+Here's a link to the actual [paper in PNAS][paper] as well as a really great [two-page synopsis][synopsis] written by Felicia Keesing for PNAS.
 
 ## The headlines
 
-We were lucky enough to get a little bit of media attention for this paper. I know it's silly to chase publications in high-profile journals but I guess that is the point: a few of those journals do get looked at by people outside the ivory tower. 
+We were lucky enough to get a little bit of media attention for this paper. I know it's silly to chase publications in high-profile journals but I guess that is the point: a few of those journals do get looked at by people outside the ivory tower. We even got a brief [blurb in the weekly science news column in La Presse][lapresse], Montreal's daily paper (link in French only!) I thought it was interesting how they chose to portray the results. The headline proclaims "Mediterranean Diet Bad For Biodiversity" (!) I guess I don't completely disagree with that but it was a little surprising that that was the result the journalist chose to focus on. I tried to put a more positive spin on things in the actual paper, focusing on potential benefits of actions society could take. But the headline is certainly not incorrect based on the results we got. Well, the only quibble is that the diet in the dietary guidelines is called Mediterranean-*style*, not just Mediterranean. That's probably because it includes a good amount more dairy and red meat than what is typically thought of as a true Mediterranean diet with more grains and fish. But that speaks to the different ways in which the creators of the dietary guidelines are pulled, because of the different mandates of the USDA and DHHS. It's hard to satisfy sustainability, health, and the profitability of agriculture all at the same time.
 
-XXX insert text here
+I can't complain because not that many scientific papers get any attention at all outside of the academic literature. At first I felt a little uncomfortable that the work was being used to say that healthy diets might not be good for biodiversity, but I think it's important to stand by the results you get whether or not they support your prior beliefs or agenda. At least, that's the ideal of objectivity that scientists always brag about but don't actually live up to that often. At the end of the day, we did show that plant-based diets are beneficial for biodiversity, just not quite in proportion to the amount of land they could spare. It really points more to the need to consider the sources of calories in any diet and source them more intelligently. Biodiversity is unequally distributed across the globe so it makes sense for us to prioritize our food consumption to avoid overexploiting the most biodiversity-rich places and minimize the impact on biodiversity. And of course food waste reduction can help make that task a bit easier.
+
+By the way the paper also got a longer [write-up in Anthropocene Magazine][anthro] which you might be interested in.
 
 {% include captionedimage.html url="/images/FIXME" height="200px" description="<i>FIXME</i>" %}{: .align-right .width-half}
 
 fixme
 
+[paper]: link
+[synopsis]: link
 [mkm]: link 
 [klh]: link
+[lapresse]: link
+[anthro]: link
