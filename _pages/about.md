@@ -16,7 +16,7 @@ header:
 
 ## Stats and data science to sustainably feed the world
 
-Quentin is a data scientist and ecologist. He is the Southeast Area Statistician for the U.S. Department of Agriculture's Agricultural Research Service (ARS), where he began working in October 2021. Based on the campus of N.C. State University in Raleigh, North Carolina, USA, he serves as a statistical and data science consultant for over four hundred scientists located all over the southeastern United States. Agriculture is facing many tough challenges to remain resilient and sustainable in the face of global change. Quentin is helping the USDA's effort to sustainably feed the world by working on projects including genomic selection of sugarcane and orange, using hydrological models to predict soil types, predicting the spread of invasive plant pests, and developing new methods for repurposing citrus waste. He uses classical frequentist and Bayesian stats, geospatial statistics, and machine learning methods including self-organizing maps. Quentin works with researchers to help process big complex datasets, analyze them statistically, and visualize patterns in the data.
+Quentin is a data scientist and ecologist. He is the Southeast Area Statistician for the U.S. Department of Agriculture's Agricultural Research Service (ARS), where he began working in October 2021. Based on the campus of N.C. State University in Raleigh, North Carolina, USA, he serves as a statistical and data science consultant for over four hundred scientists located all over the southeastern United States. Agriculture is facing many tough challenges to remain resilient and sustainable in the face of global change. Quentin is helping the USDA's effort to sustainably feed the world by working on projects including genomic selection of sugarcane and orange, using hydrological models to predict soil types, predicting the spread of invasive plant pests and how to minimize the damage they cause, and developing new methods for repurposing food processing waste. He uses classical frequentist and Bayesian stats, geospatial statistics, and machine learning methods including self-organizing maps. Quentin works with researchers to help process big complex datasets, analyze them statistically, and visualize patterns in the data.
 
 Quentin also likes playing Irish trad music on the flute, running (his favorite race is the mile), birding, and being a dad to Vinny and husband to [Mary](http://www.marymglover.com).
 
@@ -42,6 +42,6 @@ Visit the [Research](/research/) page to learn more about Quentin's past, curren
 
 <iframe src="/talkmap/map.html" height="700" width="850" style="margin-right:auto;margin-left:auto;border:none;"></iframe>
 
-*Site last updated 07 October 2021*
+*Site last updated 28 April 2022
 
 

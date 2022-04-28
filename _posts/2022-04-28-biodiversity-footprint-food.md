@@ -1,6 +1,6 @@
 ---
 title: 'How can we reduce the "biodiversity footprint" of the food we eat?'
-date: 2022-04-29
+date: 2022-04-28
 permalink: /posts/2022/04/biodiversity-footprint-food/
 tags:
   
@@ -14,9 +14,9 @@ Recently, my former postdoc mentor [Mary Muth][mkm], my amazing colleague and co
 
 ## The study
 
-{% include captionedimage.html url="/images/datasynthesisapproach.PNG" height="300px" description="<i>A diagram of how we modeled the USA food system's environmental impacts</i>" %}{: .align-left .width-half}
-
 *Here's a link to the actual [paper in the journal PNAS][paper] as well as a really great [two-page synopsis][synopsis] written by Felicia Keesing for PNAS. If you can't access these because of a paywall, please email me and I will share them with you.*
+
+{% include captionedimage.html url="/images/datasynthesisapproach.PNG" height="400px" description="<i>A diagram of how we modeled the USA food system's environmental impacts</i>" %}
 
 We put together a bunch of different models and data about food consumption in the United States and its environmental impact. First, we figured out how much land is used in each county of the United States, and each country around the world, to produce food that people in the United States consume. Because of our globalized food system and our ability as affluent consumers to purchase expensive imported food, a full 20% of the land used to produce food in the USA is actually in other countries. Next, we converted that land footprint into a biodiversity footprint: when land is converted from natural habitat to agricultural uses, it takes away resources that animals and plants need to sustain their own populations. Even if species don't immediately go extinct when portions of their habitat are taken away, some species might not have enough land left to keep up a stable population size. So some of them might be "doomed" to eventual extinction if they don't get some of that land back. We used a few different models ... and a lot of assumptions ... to get an estimate of the number of plant, mammal, bird, amphibian, and reptile species threatened in this way by Americans' food consumption habits.
 
