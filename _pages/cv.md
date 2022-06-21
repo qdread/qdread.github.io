@@ -17,7 +17,7 @@ header:
 
 # Highlights from Quentin's CV
 
-Download [a PDF of the full CV](https://qdread.github.io/files/qread_cv.pdf), or [a 2-page r&eacute;sum&eacute;](https://qdread.github.io/files/qread_2pageresume.pdf).
+Download [a PDF of the full CV](https://qdread.github.io/files/qread_cv.pdf), [a 2-page r&eacute;sum&eacute;](https://qdread.github.io/files/qread_2pageresume.pdf), or [a 1-page r&eacute;sum&eacute;](https://qdread.github.io/files/qread_1pageresume.pdf).
 
 Professional experience
 ======
