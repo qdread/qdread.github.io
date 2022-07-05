@@ -100,6 +100,6 @@ However, we still don't understand how this relationship varies from place to pl
 [rcrpaper]: https://www.sciencedirect.com/science/article/pii/S0921344921000550
 [frontierspaper]: https://www.frontiersin.org/articles/10.3389/fsufs.2021.651476/full
 [pnaspaper]: https://doi.org/10.1073/pnas.2113884119
-[pnaspaperentry]: /publications/2022-04-04-read-et-al-2022-pnas/
+[pnaspaperentry]: /publications/2022-04-04-read-et-al-2022-pnas
 [pnascomment]: https://doi.org/10.1073/pnas.2204241119
 [q360info]: https://360info.org/extinction-on-our-plates/
