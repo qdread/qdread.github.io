@@ -9,3 +9,7 @@
 
 - heat wave, lack of action on climate change
 - excitement about birds, also signs of change (Ricky said as a kid, Wake County Fish Crows only were seen around the Neuse River in summer, then they started appearing all around the county in warmer months, now they even hang around in the winter too. I would like to say that I have noticed Fish Crows increasing in abundance too, but I think it is more that I only really realized how to tell their distinctive nasal cawing apart from an American Crow three or four years ago.)
+
+# Next post August 2022
+
+- Climate deal needs to transform the food system, not just energy and transportation
