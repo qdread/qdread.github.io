@@ -3,6 +3,7 @@ title: 'Working for the USDA'
 date: 2022-04-14
 permalink: /posts/2022/04/working-for-usda/
 tags:
+  - USDA
   - agriculture
   - sustainability
 ---

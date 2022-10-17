@@ -3,6 +3,7 @@ title: 'Working for the USDA, part 2: changing the language of statistics and sc
 date: 2022-04-18
 permalink: /posts/2022/04/working-for-usda-part-2/
 tags:
+  - USDA
   - agriculture
   - statistics
   - Bayes
