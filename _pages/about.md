@@ -12,6 +12,8 @@ header:
   caption: "Photo: QDR"
 ---
 
+*If you came here looking for the USDA ARS SEA stats training page, [click here](/SEAStats/).*
+
 ![Photo by QDR](/images/measuring.jpg){: .align-right .width-half .top-pad}
 
 ## Stats and data science to sustainably feed the world
@@ -26,7 +28,7 @@ From 2018 to 2021, Quentin worked as a researcher and data scientist at the [Nat
 
 At heart Quentin is a community ecologist. He does research seeking patterns in biodiversity and species traits at many levels, from within-species variation at the local scale to variation across large scales of space and time, and exploring the implications of those patterns for how organisms and ecosystems respond to global change.
 
-Visit the [Research](/research/) page to learn more about Quentin's past, current, and future research, or the [Data Science](/data-science/) page to read about how Quentin contributes to open reproducible data science. Download his [CV](/files/qread_cv.pdf) or a briefer [r&eacute;sum&eacute;](/files/qread_2pageresume.pdf) for more details. 
+Visit the [Research](/research/) page to learn more about Quentin's past, current, and future research, or the [Data Science](/data-science/) page to read about how Quentin contributes to open reproducible data science. Statistics and data science training resources developed for the Ag Research Service Southeast Area (SEA) can be found at the [SEAStats](/SEAStats/) page. Download his [CV](/files/qread_cv.pdf) or a briefer [r&eacute;sum&eacute;](/files/qread_2pageresume.pdf) for more details. 
 
 -----
 
@@ -42,6 +44,6 @@ Visit the [Research](/research/) page to learn more about Quentin's past, curren
 
 <iframe src="/talkmap/map.html" height="700" width="850" style="margin-right:auto;margin-left:auto;border:none;"></iframe>
 
-*Site last updated 28 April 2022
+*Site last updated 17 January 2023*
 
 
