@@ -74,8 +74,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal"
+  provider               :  "google-gtag"
   google:
+    measurement_id       : G-ENK4TMBQME
     tracking_id          : UA-139121650-1
     anonymize_ip         : false
 
