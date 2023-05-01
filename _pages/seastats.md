@@ -3,5 +3,6 @@ title: seastats
 redirect_from: 
   - SEAstats/
   - seastats/
-redirect_to: SEAStats/
+  - SEAStats/
+redirect_to: https://usda-ree-ars.github.io/SEAStats/
 ---
