@@ -11,11 +11,13 @@ header:
 
 <a name="top"></a>
 
-Quentin is committed to making data science open and reproducible and breaking down barriers that keep social and environmental researchers from using big publicly-available data. In practice, that means designing and teaching data science lessons, and creating and contributing to software packages for high-performance computing, data visualization, and ecological data analysis.
+Quentin is committed to making data science open and reproducible and breaking down barriers that keep social and environmental researchers from using big publicly-available data. In practice, that means designing and teaching lessons on data science and statistics, and creating and contributing to software packages for high-performance computing, data visualization, and ecological data analysis.
 
-## Teaching Data Science
+## Teaching Stats and Data Science
 
-From 2019-2021, Quentin created online data science lessons and taught them in-person and virtually as part of the data science team at [SESYNC](https://www.sesync.org). Quentin has either created or contributed to a whole host of lessons available on the [SESYNC cyberhelp page](https://sesync-ci.github.io/lesson). Topics include [basic][basicgit] and [advanced git][advancedgit], using R and APIs to [get online data][onlinedata], and [geospatial data packages in R][geospatial].
+Since 2021, Quentin has been teaching stats and data science to scientists at USDA. The lesson materials can be found at the [SEA Stats training page](/SEAStats/). Topics include basic R, linear models, Bayesian regression, R for SAS users, and data visualization with ggplot2.
+
+From 2019-2021, Quentin created online data science lessons and taught them in-person and virtually as part of the data science team at [SESYNC](https://www.sesync.org). Quentin has either created or contributed to many of the lessons on the [SESYNC cyberhelp page](https://sesync-ci.github.io/lesson). Lessons that Quentin contributed to include [basic][basicgit] and [advanced git][advancedgit], using R and APIs to [get online data][onlinedata], and [geospatial data packages in R][geospatial].
 
 [Back to top](#top)
 
@@ -27,7 +29,7 @@ These are the R packages that Quentin has created or contributed to.
 
 ### rslurm
 
-Researchers working with big socio-environmental data are often familiar with synthesizing and analyzing data in R, but they run up on memory and processing time limitations. Many of their institutions provide high-performance computing clusters for running big computing jobs. But using those clusters requires knowledge of shell scripting, which many socio-environmental researchers don't have. The [rslurm][rslurm] package, originally created by Philippe Marchand, a SESYNC data scientist, solves this problem. It allows users to run computing jobs on a Slurm cluster directly from R! The package creates all the necessary shell scripts for you behind the scenes, and manages the jobs automatically. Quentin has been maintaining and contributing new features to the package since 2019.
+Researchers working with big socio-environmental data are often familiar with synthesizing and analyzing data in R, but they run up on memory and processing time limitations. Many of their institutions provide high-performance computing clusters for running big computing jobs. But using those clusters requires knowledge of shell scripting, which many socio-environmental researchers don't have. The [rslurm][rslurm] package, originally created by Philippe Marchand, a SESYNC data scientist, solves this problem. It allows users to run computing jobs on a Slurm cluster directly from R! The package creates all the necessary shell scripts for you behind the scenes, and manages the jobs automatically. Quentin maintained and contributed new features to the package from 2019-2023.
 
 ![ggalluvial app screenshot](/images/ggalluvialscreenshot.png){: .align-left .width-half }
 
