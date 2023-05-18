@@ -32,7 +32,7 @@ var addressPoints = [
   [
     "Portland, Oregon",
     45.5202471,
-    -122.6741949
+    -122.674194
   ],
   [
     "Leipzig, Germany",
@@ -46,8 +46,8 @@ var addressPoints = [
   ],
   [
     "Arlington, Virginia",
-    38.8903961,
-    -77.0841585
+    38.8769326,
+    -77.0893094
   ],
   [
     "Louisville, Kentucky",
@@ -68,5 +68,10 @@ var addressPoints = [
     "Raleigh, North Carolina",
     35.7803977,
     -78.6390989
+  ],
+  [
+    "West Lafayette, Indiana",
+    40.4258686,
+    -86.9080655
   ]
 ];
