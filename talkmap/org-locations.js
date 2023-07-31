@@ -73,5 +73,10 @@ var addressPoints = [
     "West Lafayette, Indiana",
     40.4258686,
     -86.9080655
+  ],
+  [
+    "Athens, Georgia",
+    33.9597677,
+    -83.376398
   ]
 ];
