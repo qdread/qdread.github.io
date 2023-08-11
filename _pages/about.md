@@ -32,18 +32,10 @@ Visit the [Research](/research/) page to learn more about Quentin's past, curren
 
 -----
 
-## Quentin's latest tweets
-
-<div id="twitter-widget-holder" style="margin-right:auto;margin-left:auto;overflow:scroll;max-height:400px;max-width:500px;padding:20px;background:#fff;border-radius:3px;box-shadow:2px 2px 3px rgba(0,0,0,.1);">
-	<a class="twitter-timeline" href="https://twitter.com/QuentinDRead?ref_src=twsrc%5Etfw" data-tweet-limit="5">Tweets by QuentinDRead</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-</div>
-
------
-
 ## Map of places Quentin has given talks
 
 <iframe src="/talkmap/map.html" height="700" width="850" style="margin-right:auto;margin-left:auto;border:none;"></iframe>
 
-*Site last updated 17 January 2023*
+*Site last updated 11 August 2023*
 
 
