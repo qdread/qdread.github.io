@@ -88,5 +88,15 @@ var addressPoints = [
     "Stuttgart, Arkansas",
     34.5003748,
     -91.5526281
+  ],
+  [
+    "New Orleans, Louisiana",
+    29.9759983,
+    -90.0782127
+  ],
+  [
+    "Baton Rouge, Louisiana",
+    30.4494155,
+    -91.1869659
   ]
 ];
