@@ -11,8 +11,8 @@ var addressPoints = [
   ],
   [
     "Notre Dame, Indiana",
-    41.704567749999995,
-    -86.23822026017265
+    41.7045677,
+    -86.2382203
   ],
   [
     "Baltimore, Maryland",
@@ -61,8 +61,8 @@ var addressPoints = [
   ],
   [
     "Washington, DC",
-    38.8950368,
-    -77.0365427
+    38.8950982,
+    -77.0363849
   ],
   [
     "Raleigh, North Carolina",
@@ -91,8 +91,8 @@ var addressPoints = [
   ],
   [
     "New Orleans, Louisiana",
-    29.9759983,
-    -90.0782127
+    29.9561422,
+    -90.0733934
   ],
   [
     "Baton Rouge, Louisiana",
@@ -101,7 +101,22 @@ var addressPoints = [
   ],
   [
     "Mayaguez, Puerto Rico",
-    18.2011161,
-    -67.1391124
+    18.2116355,
+    -67.0953572
+  ],
+  [
+    "Gainesville, Florida",
+    29.6519684,
+    -82.3249846
+  ],
+  [
+    "Jonesboro, Arkansas",
+    35.8348088,
+    -90.7045297
+  ],
+  [
+    "Auburn, Alabama",
+    32.6098566,
+    -85.4807825
   ]
 ];
