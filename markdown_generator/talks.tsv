@@ -1,4 +1,6 @@
 title	type	url_slug	venue	date	location	talk_url	description
+Designing animal experiments: old and new paradigms (virtual)	Invited talk	talk-iacuc2026	"USDA Agricultural Research Service, FY2026 IACUC workshop"	2026-08-26	"Auburn, Alabama"	https://usda-ree-ars.github.io/SEAStats/talks/designing_animal_experiments.pdf
+Power analysis basics	Invited talk	talk-jonesboro2026	"USDA ARS Delta Water Management Research Unit"	2026-07-16	"Jonesboro, Arkansas"	https://usda-ree-ars.github.io/SEAStats/talks/power-analysis
 Experimental design matters! (virtual)	Invited talk	talk-ffsru2025	"USDA ARS Feed & Food Safety Research Unit, Science Coffee Hour"	2025-05-28	"New Orleans, Louisiana"	https://usda-ree-ars.github.io/SEAStats/talks/experimental_design
 Multinomial logistic GLMMs: a patchy landscape of software implementations (virtual)	Invited talk	talk-agstats2025	"AgStats (Conference on Applied Statistics in Agriculture & Natural Resources"	2025-05-14	"Gainesville, Florida"
 Doing more with less: using prior knowledge and creative experimental design to get more results from fewer animals (virtual)	Invited talk	talk-iacuc2024	"USDA Agricultural Research Service, FY2024 IACUC workshop"	2024-07-18	"Stuttgart, Arkansas"	https://usda-ree-ars.github.io/SEAStats/talks/doing_more_with_less
